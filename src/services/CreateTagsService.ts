@@ -4,7 +4,7 @@ import { response } from "express";
 
 class CreateTagsService {
 
-    async excute(name: string){
+    async execute(name: string){
         const tagsRepository = getCustomRepository(TagsRepository);
 
         if(!name){
