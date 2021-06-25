@@ -374,6 +374,11 @@
   "resolved" "https://registry.npmjs.org/chownr/-/chownr-1.1.4.tgz"
   "version" "1.1.4"
 
+"class-transformer@^0.4.0":
+  "integrity" "sha512-ETWD/H2TbWbKEi7m9N4Km5+cw1hNcqJSxlSYhsLsNjQzWWiZIYA1zafxpK9PwVfaZ6AqR5rrjPVUBGESm5tQUA=="
+  "resolved" "https://registry.npmjs.org/class-transformer/-/class-transformer-0.4.0.tgz"
+  "version" "0.4.0"
+
 "cli-highlight@^2.1.10":
   "integrity" "sha512-9KDcoEVwyUXrjcJNvHD0NFc/hiwe/WPVYIleQh2O1N2Zro5gWJZ/K+3DGn8w8P/F6FxOgzyC5bxDyHIgCSPhGg=="
   "resolved" "https://registry.npmjs.org/cli-highlight/-/cli-highlight-2.1.11.tgz"

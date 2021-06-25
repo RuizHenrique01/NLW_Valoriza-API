@@ -4,6 +4,9 @@ import { CreateComplimentsService, IComplimentRequest } from "../services/Create
 class CreateComplimentsController{
     async handle(request: Request, response: Response){
         const complimentRequest: IComplimentRequest = request.body;
+        const { user_id } = request;
+
+        complimentRequest.user_sender = user_id;
 
         const createComplimentsService = new CreateComplimentsService();
 
