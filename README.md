@@ -10,8 +10,10 @@
  
  ## :zap: Tecnologias Utilizadas
 
-- Typescript
+- TypeScript
 - Node.Js
+- Express.js
+- JWT
 - TypeORM
 
 ## :comet: Instalação
